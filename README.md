@@ -3,5 +3,6 @@ El escaner de python lo que hace es iterar por una lista de IP's del cual te va 
 
 La ejecución se hace de la siguiente manera:
 
-pyrhon3 mass_smb_scan.py ./lista_ip.txt
+pyrhon3 mass_smb_scan.py ./lista_ip.txt --threads 20
+
 
